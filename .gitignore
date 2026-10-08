@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+*.prof
+profile.out
+.DS_Store
