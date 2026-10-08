@@ -1,6 +1,6 @@
-# same-result-faster
+# honest-speedup
 
-[![test](https://github.com/rihito-dev/same-result-faster/actions/workflows/test.yml/badge.svg)](https://github.com/rihito-dev/same-result-faster/actions/workflows/test.yml)
+[![test](https://github.com/rihito-dev/honest-speedup/actions/workflows/test.yml/badge.svg)](https://github.com/rihito-dev/honest-speedup/actions/workflows/test.yml)
 
 **Make slow Python research code faster without changing its results — a guide, a planning prompt for agents, and runnable before/after examples.**
 
